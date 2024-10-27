@@ -10,17 +10,17 @@ The goal of this project is to analyze the computer hardware dataset based on va
 
 # Models Implemented
 
-1)Linear Regression                                                                                                                                                    
-2)Ridge Regression                                                                                                                                                     
-3)Lasso Regression                                                                                                                                                     
-4)Decision Tree Regressor                                                                                                                                              
-5)Random Forest Regressor                                                                                                                                              
-6)Gradient Boosting Regressor                                                                                                                                          
-7)XGBoost Regressor                                                                                                                                                    
-8)CatBoost Regressor                                                                                                                                                   
-9)Support Vector Regressor                                                                                                                                             
-10)K-Nearest Neighbors Regressor                                                                                                                                       
-11)Extra Trees Regressor
+1) Linear Regression                                                                                                                                                    
+2) Ridge Regression                                                                                                                                                     
+3) Lasso Regression                                                                                                                                                     
+4) Decision Tree Regressor                                                                                                                                              
+5) Random Forest Regressor                                                                                                                                              
+6) Gradient Boosting Regressor                                                                                                                                          
+7) XGBoost Regressor                                                                                                                                                    
+8) CatBoost Regressor                                                                                                                                                   
+9) Support Vector Regressor                                                                                                                                             
+10) K-Nearest Neighbors Regressor                                                                                                                                       
+11) Extra Trees Regressor
 
 # Note
 The data is extracted from Kagggle.
